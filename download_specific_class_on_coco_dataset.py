@@ -1,5 +1,7 @@
 #코코에서 원하는 클래스만 뽑아내기
 #cocoapi 설치는 여기 참고
+#https://www.programmersought.com/article/64914737579/
+
 from pycocotools.coco import COCO
 import requests
 
